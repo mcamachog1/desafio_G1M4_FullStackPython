@@ -1,0 +1,4 @@
+Este es un archivo de texto
+Línea 2
+Línea 3
+Linea 4 sin acento
